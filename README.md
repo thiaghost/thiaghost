@@ -2,7 +2,8 @@
 
 
 - 🐱‍👤 Estudante de Engenharia de computação
-- 🌱 Atualmente estou estudando C
+- 🌱 Atualmente estudando Hacking
+- 🔓 Lock Picking
  ## 
 <div align="center">
   <a href="https://github.com/thiaghost">
