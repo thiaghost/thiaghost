@@ -2,7 +2,7 @@
 
 
 - 🐱‍👤 Estudante de Engenharia de computação
-- 🌱 Atualmente estudando Hacking
+- 🌱 Atualmente estudando Etical Hacking
 - 🔓 Lock Picking
  ## 
 <div align="center">
