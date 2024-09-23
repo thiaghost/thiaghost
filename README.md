@@ -1,9 +1,5 @@
 ### 🙌 Opa! Eu sou o Thiago Luciano 🙌
 
-
-- 🐱‍👤 Estudante de Engenharia de computação
-- 🌱 Atualmente estudando Etical Hacking
-- 🔓 Lock Picking
  ## 
 <div align="center">
   <a href="https://github.com/thiaghost">
